@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 7
+    },
+    "auditFilename": "/home/beta/.config/companion/logs/audit.json",
+    "hashType": "md5",
+    "extension": ".log",
+    "files": [
+        {
+            "date": 1762725272162,
+            "name": "/home/beta/.config/companion/logs/companion-2025-11-09.0.log",
+            "hash": "bff377414c205ae8e650e6c7e6dc61a6"
+        }
+    ]
+}

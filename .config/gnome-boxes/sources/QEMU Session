@@ -1,0 +1,13 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display 5ff931c6-4c70-4e72-b622-530eb7c1fc69]
+last-seen-name=EndeavourOS_Mercury-Neo-2025 2
+uuid=5ff931c6-4c70-4e72-b622-530eb7c1fc69
+acceleration-3d=false
+run-in-bg=false
+access-last-time=1762096205629587
+access-ntimes=1

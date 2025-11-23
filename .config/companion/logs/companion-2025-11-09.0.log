@@ -1,0 +1,46 @@
+2025-11-09T21:54:32.249Z Application: Companion process started
+2025-11-09T21:54:32.676Z info Main Application starting
+2025-11-09T21:54:32.677Z info Registry Build 4.1.4+8492-stable-4cb4314544
+2025-11-09T21:54:32.677Z info Registry configuration directory: /home/beta/.config/companion/v4.1
+2025-11-09T21:54:32.693Z info Log/Controller Sentry error reporting configured
+2025-11-09T21:54:32.698Z info Data/Upgrade Upgrading db from version 6 to 9
+2025-11-09T21:54:32.706Z info Graphics/Controller Render worker created
+2025-11-09T21:54:32.708Z info Graphics/Controller Render worker created
+2025-11-09T21:54:32.708Z info Graphics/Controller Loading fonts
+2025-11-09T21:54:32.709Z info Graphics/Controller Fonts loaded
+2025-11-09T21:54:32.721Z info Service/BonjourDiscovery Listening for Bonjour messages
+2025-11-09T21:54:32.780Z info Data/UserConfig set 'https_self_cn' to: "127.0.0.1"
+Started
+2025-11-09T21:54:32.781Z info UI/Server new url: http://127.0.0.1:8000/
+2025-11-09T21:55:02.263Z Application: Companion looks to be stable
+2025-11-09T21:56:51.148Z info Data/UserConfig set 'remove_topbar' to: true
+2025-11-09T21:57:55.473Z info Instance/UserModulesManager Queuing install of module "discord-api" v1.4.0
+2025-11-09T21:57:55.473Z info Instance/Controller Adding connection discord-api API
+2025-11-09T21:57:55.474Z info Instance/ModuleHost Starting connection: "discord" (Y6ZazJaGGatQYmJ8RONQr)
+2025-11-09T21:57:55.476Z error Instance/ModuleHost Configured instance "discord-api" could not be loaded, unknown module
+2025-11-09T21:57:56.174Z info Instance/UserModulesManager Downloaded discord-api v1.4.0 in 699ms (75521 bytes)
+2025-11-09T21:57:56.181Z info Instance/UserModulesManager Installed module discord-api v1.4.0
+2025-11-09T21:57:56.181Z info Instance/Modules New module installed: discord-api
+2025-11-09T21:57:56.183Z info Instance/ModuleHost Starting connection: "discord" (Y6ZazJaGGatQYmJ8RONQr)
+2025-11-09T21:57:56.184Z info Instance/Controller Reloading 1 connections: discord
+2025-11-09T21:57:56.188Z info Instance/discord Connection started process 7765
+2025-11-09T21:57:56.229Z info Instance/Wrapper/discord Please configure the Discord module with a Client ID and Client Secret
+2025-11-09T22:04:10.655Z info Instance/Controller Disable instance discord
+2025-11-09T22:04:11.287Z info Instance/Controller Enable instance discord
+2025-11-09T22:04:11.287Z info Instance/ModuleHost Starting connection: "discord" (Y6ZazJaGGatQYmJ8RONQr)
+2025-11-09T22:04:11.291Z info Instance/discord Connection started process 9882
+2025-11-09T22:04:32.704Z info Data/Database backup complete in 4.997464000014588ms
+2025-11-09T22:04:32.709Z info Data/Cache backup complete in 5.282293000025675ms
+2025-11-09T22:04:38.040Z info Graphics/Controller Render worker created
+2025-11-09T22:04:38.041Z info Graphics/Controller Render worker created
+2025-11-09T22:04:38.042Z info Graphics/Controller Render worker created
+2025-11-09T22:04:38.043Z info Graphics/Controller Render worker created
+2025-11-09T22:06:04.999Z info Instance/Controller Disable instance discord
+2025-11-09T22:06:05.893Z info Instance/Controller Enable instance discord
+2025-11-09T22:06:05.893Z info Instance/ModuleHost Starting connection: "discord" (Y6ZazJaGGatQYmJ8RONQr)
+2025-11-09T22:06:05.901Z info Instance/discord Connection started process 10154
+2025-11-09T22:06:28.024Z info Registry somewhere, the system wants to exit. kthxbai
+2025-11-09T22:06:28.026Z error Surface/Handler/streamdeck:A00SA4442LBJOD Elgato Stream Deck MK.2 disconnected
+2025-11-09T22:06:28.026Z warn surfaces Error getting: The database connection is not open
+2025-11-09T22:06:28.153Z Application: Companion exited with code: 0
+2025-11-09T22:06:28.154Z Application: Companion process stopped
